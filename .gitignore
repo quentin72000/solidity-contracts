@@ -1,0 +1,5 @@
+.states/
+.deploys/
+.deps/
+contracts/*/artifacts/
+contracts/artifacts/
